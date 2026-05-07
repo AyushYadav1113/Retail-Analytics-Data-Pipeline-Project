@@ -1,2 +1,2 @@
 # Retail-Analytics-Data-Pipeline-Project
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/fd889d20-bf99-4c7a-a7af-8b855dd49ea5" />
+<img width="2844" height="1462" alt="image" src="https://github.com/user-attachments/assets/ca156ac1-2dc0-4f31-a2ff-c12a96e76ddd" />
