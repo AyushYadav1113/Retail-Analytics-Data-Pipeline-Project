@@ -1,0 +1,8 @@
+2026-05-08 02:29:01,482 - INFO - Running SQL Analysis queries and saving results...
+2026-05-08 02:29:01,535 - INFO - Saved: /Users/ayushyadav/Retail-Analytics-Data-Pipeline-Project/outputs/analytics/top_10_customers.csv
+2026-05-08 02:29:01,560 - INFO - Saved: /Users/ayushyadav/Retail-Analytics-Data-Pipeline-Project/outputs/analytics/region_wise_profit.csv
+2026-05-08 02:29:01,593 - INFO - Saved: /Users/ayushyadav/Retail-Analytics-Data-Pipeline-Project/outputs/analytics/monthly_sales_trend.csv
+2026-05-08 02:29:01,644 - INFO - Saved: /Users/ayushyadav/Retail-Analytics-Data-Pipeline-Project/outputs/analytics/loss_making_products.csv
+2026-05-08 02:29:01,679 - INFO - Saved: /Users/ayushyadav/Retail-Analytics-Data-Pipeline-Project/outputs/analytics/rank_vs_dense_rank.csv
+2026-05-08 02:29:01,785 - INFO - Saved: /Users/ayushyadav/Retail-Analytics-Data-Pipeline-Project/outputs/analytics/regional_product_performance.csv
+2026-05-08 02:29:01,785 - INFO - SQL Analysis completed successfully.
